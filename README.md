@@ -24,8 +24,6 @@ Incluye integración con **Bootstrap 5** y **Bootstrap Icons** para un diseño m
 
 ---
 
----
-
 ## ⚙️ Configuración y Uso
 
 ### 1. Prerrequisitos
