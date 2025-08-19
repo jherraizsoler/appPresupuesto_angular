@@ -35,9 +35,9 @@ Clona el repositorio y navega al directorio del proyecto:
 ```bash
 git clone https://github.com/tu-usuario/app-presupuesto.git
 cd app-presupuesto
-
+```
 Instala las dependencias del proyecto:
-``` bash 
+```bash
 npm install
 ```
 
